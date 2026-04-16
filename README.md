@@ -9,6 +9,7 @@ Software Engineering Student passionate about:
 - HTML
 - CSS
 - JavaScript
+- React
 - Python
 - Flask
 - SQL
