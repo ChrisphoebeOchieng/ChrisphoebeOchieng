@@ -16,6 +16,7 @@ Software Engineering Student passionate about:
 
 ## Currently working on:
 - Gym Management System
+- Inventory Management System
 - Portfolio website
 
 
