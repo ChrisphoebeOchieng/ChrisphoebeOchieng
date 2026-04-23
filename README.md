@@ -16,7 +16,6 @@ Software Engineering Student passionate about:
 - SQL
 
 ## Currently working on:
-- Inventory Management System
 - Portfolio website
 
 
