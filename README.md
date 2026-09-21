@@ -28,6 +28,3 @@ A REST API for managing products, categories, suppliers, inventory levels, and s
 * Learning software testing, deployment, and CI/CD
 * Developing independent projects that solve practical problems
 
-### What I Am Looking For
-
-I am currently seeking opportunities to grow as a Software Engineer, contribute to real-world products, and continue developing my technical and problem-solving skills.
