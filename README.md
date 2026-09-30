@@ -1,30 +1,82 @@
-# Chrisphoebe Ochieng
+<!-- PROFILE HEADER -->
 
-**Software Engineer | Full-Stack Developer**
+<div align="center">
 
-I am a Software Engineer based in Nairobi, Kenya, with a focus on building practical and user-focused web applications. I work primarily with Python, Flask, JavaScript, React, and SQL, and I enjoy developing solutions that turn real-world problems into functional software.
+# 👋🏽 Hi, I'm Chrisphoebe Ochieng
 
-### Technical Skills
+### Software Engineer • Full-Stack Developer
 
-**Languages:** Python, JavaScript, C++, PHP, SQL
-**Frontend:** React, HTML, CSS
-**Backend:** Flask, REST APIs
-**Databases:** PostgreSQL, MySQL, SQLite
-**Tools:** Git, GitHub, VS Code, Postman
+Building practical software solutions that solve real-world problems.
 
-### Featured Projects
+<br>
 
-**Burn Club Gym Management System**
-A web-based gym management system designed to support gym membership and day-to-day operations.
+<img src="https://komarev.com/ghpvc/?username=ChrisphoebeOchieng&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 
-**Inventory Management System**
-A REST API for managing products, categories, suppliers, inventory levels, and stock transactions.
+</div>
 
-### Currently Working On
+---
 
-* Building production-quality full-stack applications
-* Strengthening data structures and algorithms
-* Improving backend architecture and API development
-* Learning software testing, deployment, and CI/CD
-* Developing independent projects that solve practical problems
+<!-- ABOUT ME -->
 
+## 👩🏽‍💻 About Me
+
+I'm a Software Engineer based in **Nairobi, Kenya**, passionate about building practical, user-focused applications and continuously improving my engineering skills.
+
+I enjoy turning ideas and real-world problems into functional software — from backend APIs and databases to full-stack web applications.
+
+- 💻 Building full-stack and backend applications
+- 🐍 Working primarily with Python, Flask and REST APIs
+- ⚛️ Building interfaces with React and JavaScript
+- 🗄️ Working with relational databases and PostgreSQL
+- ☁️ Exploring cloud computing, DevOps and deployment
+- 🚀 Building independent software projects
+- 📚 Continuously learning and improving my engineering fundamentals
+
+---
+
+<!-- TECH STACK -->
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,php,html,css" />
+
+### Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+
+### Development & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=aws,linux,docker" />
+
+</div>
+
+---
+
+<!-- WHAT I BUILD -->
+
+## 💻 What I Build
+
+```text
+Frontend
+   ↓
+React • JavaScript • HTML • CSS
+   ↓
+REST APIs
+   ↓
+Flask • Python
+   ↓
+PostgreSQL • MySQL • SQLite
+   ↓
+Deployment & DevOps
