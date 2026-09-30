@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋🏽 Hi, I'm Chrisphoebe Ochieng
+# Hi, I'm Chrisphoebe Ochieng
 
 ### Software Engineer • Full-Stack Developer
 
