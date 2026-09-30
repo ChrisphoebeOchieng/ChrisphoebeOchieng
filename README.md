@@ -10,7 +10,6 @@ Building practical software solutions that solve real-world problems.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ChrisphoebeOchieng&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 
 </div>
 
