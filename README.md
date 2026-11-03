@@ -35,7 +35,7 @@ I enjoy turning ideas and real-world problems into functional software — from 
 
 <!-- TECH STACK -->
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I enjoy turning ideas and real-world problems into functional software — from 
 
 <!-- WHAT I BUILD -->
 
-## 💻 What I Build
+##  What I Build
 
 ```text
 Frontend
